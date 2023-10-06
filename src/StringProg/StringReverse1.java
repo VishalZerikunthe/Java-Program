@@ -1,4 +1,4 @@
-package Zeri;
+package StringProg;
 
 public class StringReverse1 {
     public static void main(String[] args) {

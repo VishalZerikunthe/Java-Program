@@ -1,4 +1,4 @@
-package Zeri;
+package StringProg;
 
 public class PalindromeString {
     public static void main(String[] args) {

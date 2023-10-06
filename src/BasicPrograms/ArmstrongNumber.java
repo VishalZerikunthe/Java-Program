@@ -54,10 +54,11 @@ class ArmstrongNumberUsingInstance{
             sum+=Math.pow(temp2,count);
             temp1=temp1/10;
         }
-        if(num==sum) return true;
-        else return false;
+        if(num==sum) {
+            return true;
+        }
+        else {
+            return false;
+        }
     }
 }
-
-
-

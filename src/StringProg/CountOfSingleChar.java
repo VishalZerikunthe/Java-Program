@@ -1,4 +1,4 @@
-package Zeri;
+package StringProg;
 
 public class CountOfSingleChar {
     public static void main(String[] args) {
