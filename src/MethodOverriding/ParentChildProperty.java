@@ -13,6 +13,7 @@ class Parent{
 class C extends Parent{
     @Override
     void marry() {
+
         System.out.println("love marriage");
     }
 }
