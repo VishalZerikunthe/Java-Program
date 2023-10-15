@@ -3,6 +3,7 @@ package ExceptionHandling;
 public class Example {
     public static void main(String[] args) {
         Example obj=new Example();
+        
         try{
             obj.test();
             int a=10/0;
