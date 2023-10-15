@@ -11,7 +11,6 @@ public class DaemonThread {
     }
 }
 
-
 class My extends Thread{
     @Override
     public void run() {
