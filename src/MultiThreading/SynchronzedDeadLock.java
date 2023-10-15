@@ -17,6 +17,7 @@ class P{
     }
 }
 
+
 class Q{
     public synchronized void d2(P p) {
         System.out.println("Thread2 starts execution of d2() method");
