@@ -15,6 +15,7 @@ class Display1{
     }
 }
 
+
 class Demo1 extends Thread{
     Display1 d;
     String name;
